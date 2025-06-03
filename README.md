@@ -1,4 +1,3 @@
-# Elevate-2---Superstore-Data
 # 📊 Superstore Sales Analysis Dashboard
 
 ## 🎯 Task Objective
