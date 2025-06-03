@@ -47,8 +47,11 @@ The dataset contains order-level sales data including:
 
 ## 📑 Files Included
 📁 superstore-dashboard-task2/
+
 ├── Sales from Superstore Data.pbix
+
 ├── Dashboard_Screenshots
+
 ├── Summary_Storyboard.pdf
 
 
